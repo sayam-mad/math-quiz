@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: math-quiz
+Version: 0.1
+Summary: A brief description of your project
+Home-page: https://github.com/sayam-mad/math_quiz
+Author: Sayam Das
+Author-email: sayamswapankrdas@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Math Quiz
+
+This is a simple math quiz application.
+
+

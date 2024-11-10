@@ -1,0 +1,6 @@
+README.md
+setup.py
+math_quiz.egg-info/PKG-INFO
+math_quiz.egg-info/SOURCES.txt
+math_quiz.egg-info/dependency_links.txt
+math_quiz.egg-info/top_level.txt
